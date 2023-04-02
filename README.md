@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-<!--
-**cypr0/cypr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Phil a. k. a. cypr0, an experienced cybersecurity expert and IT lawyer who loves working at the intersection of law and technology.
 
