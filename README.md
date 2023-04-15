@@ -23,3 +23,4 @@ or [sponsor me here on GitHub](https://github.com/sponsors/cypr0).
 <img height="25" alt="Helm" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png"> &nbsp;
 <img height="25" alt="Kubernetes" src="https://kubernetes.io/images/favicon.png"> &nbsp;
 <img height="25" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2000px-Icons8_flat_linux.svg.png"> &nbsp;
+<img height="25" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/100px-LaTeX_logo.svg.png"> &nbsp;
