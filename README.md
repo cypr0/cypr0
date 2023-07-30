@@ -17,10 +17,10 @@ or [sponsor me here on GitHub](https://github.com/sponsors/cypr0).
 ### Tools and frameworks I'm familiar with:
 
 <img height="25" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png"> &nbsp;
-<img height="25" alt="Flux" src="https://cncf-branding.netlify.app/img/projects/flux/icon/color/flux-icon-color.png"> &nbsp;
+<img height="25" alt="Flux" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg"> &nbsp;
 <img height="25" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"> &nbsp;
 <img height="25" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> &nbsp;
-<img height="25" alt="Helm" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png"> &nbsp;
+<img height="25" alt="Helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"> &nbsp;
 <img height="25" alt="Kubernetes" src="https://kubernetes.io/images/favicon.png"> &nbsp;
 <img height="25" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2000px-Icons8_flat_linux.svg.png"> &nbsp;
 <img height="25" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/100px-LaTeX_logo.svg.png"> &nbsp;
